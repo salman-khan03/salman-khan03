@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an aspiring Software Engineer & Web Developer, currently studying Computer Science at North American University
 Computer Science undergraduate specializing in Software Engineering with demonstrated expertise in full-stack development and practical IT analysis experience. Led system improvements that achieved 90% increased uptime through automated solutions at Frontier Technology International. Developed multiple successful web applications including a flashcard app that improved user efficiency by 50% and a timetable system that reduced organization time by 80%. Proficient in Python, React.js, Node.js, and modern development frameworks, complemented by Meta Frontend and Backend Development certifications. Strong track record of enhancing user engagement through mobile-responsive designs and data-driven solutions, consistently achieving 50-90% improvement in user retention metrics. Combines technical excellence with leadership experience, demonstrated through successful volunteer initiatives and community engagement projects
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
