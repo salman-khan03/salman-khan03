@@ -11,11 +11,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/salman-khan03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:salmanazizkhan02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://x.com/salkofficial"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"></a>
-</a>
-
-
+  <a href="mailto:salmanazizkhan02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Location-Houston,%20TX-3C3C3C?style=for-the-badge">
 </p>
 
 ---
@@ -79,6 +76,5 @@ AI-driven workout tracker that uses NLP on user goals and history to generate pe
 
 <p align="center">
   <a href="https://linkedin.com/in/salman-khan03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/salkofficial"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="mailto:salmanazizkhan02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
