@@ -67,7 +67,7 @@ ML-powered web app that predicts match outcomes using engineered features like f
 ### BroGym
 AI-driven workout tracker that uses NLP on user goals and history to generate personalized plans for 500+ users. Improved reliability by reducing login-related errors by 95% and increasing scalability by 20%.
 
-**Tech:** React, TensorFlow, NLP, PostgreSQL
+**Tech:** React, TypeScript, Node.js/Express, PostgreSQL, REST APIs, TensorFlow, NLP, Docker, AWS
 
 ---
 
