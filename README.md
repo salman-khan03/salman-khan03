@@ -12,7 +12,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/salman-khan03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:salmanazizkhan02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://x.com/salkofficial"><img src="https://img.shields.io/badge_%2F_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+<a href="https://x.com/salkofficial"><img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
 </a>
 
 </p>
