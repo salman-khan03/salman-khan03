@@ -6,7 +6,7 @@
 <div align="center">
   <h1>Salman Khan</h1>
   <p><b>Software Engineering & AI | Full-Stack Developer</b></p>
-  <p>Building reliable full-stack and AI-powered applications.</p>
+  <p>Building reliable Full-stack and AI-powered applications.</p>
 </div>
 
 <p align="center">
