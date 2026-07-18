@@ -20,7 +20,7 @@
 
 I’m a CS student focused on building reliable full-stack and AI-powered applications. I care about clean architecture, readable code, and shipping products that solve real user problems.
 
-- 🚧 **Currently working on:** DevScout, FIFA World Cup Predictor, and BroGym  
+- 🚧 **Currently working on:** DevScout, FIFA World Cup Predictor  
 - 🤝 **Open to collaborating on:** Open-source AI, full-stack web apps, and student productivity tools  
 - 🛠️ **Learning:** LLMs, RAG, NLP, AWS, and advanced React/Next.js  
 - 💬 **Ask me about:** Full-stack development, LLM app integration, CodePath, and debugging  
