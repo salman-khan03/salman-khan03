@@ -8,11 +8,6 @@
   CS ’27 | Backend & Full-Stack Software Engineer | Python, Java, TypeScript, React, FastAPI, AWS | Building AI-enabled products
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/salman-khan03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:salmanazizkhan02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
 ---
 
 ## About Me
