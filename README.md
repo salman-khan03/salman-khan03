@@ -5,8 +5,7 @@
 
 <div align="center">
   <h1>Salman Khan</h1>
-  <p><b>Software Engineering & AI | Full-Stack Developer</b></p>
-  <p>Building reliable Full-stack and AI-powered applications.</p>
+  CS ’27 | Backend & Full-Stack Software Engineer | Python, Java, TypeScript, React, FastAPI, AWS | Building AI-enabled products
 </div>
 
 <p align="center">
@@ -17,16 +16,36 @@
 ---
 
 ## About Me
+# Salman Aziz Khan
 
 I’m a CS student focused on building reliable full-stack and AI-powered applications. I care about clean architecture, readable code, and shipping products that solve real user problems.
 
-- 🚧 **Currently working on:** DevScout, FIFA World Cup Predictor  
-- 🤝 **Open to collaborating on:** Open-source AI, full-stack web apps, and student productivity tools  
-- 🛠️ **Learning:** LLMs, RAG, NLP, AWS, and advanced React/Next.js  
-- 💬 **Ask me about:** Full-stack development, LLM app integration, CodePath, and debugging  
-- 🎯 **Fun fact:** I enjoy turning ideas into measurable impact — from reducing errors by 95% and latency by 40% to building tools that help users and recruiters work faster.
+CS senior graduating May 2027.
 
+Backend & Full-Stack Software Engineer focused on building production-oriented applications, cloud-deployed systems, and AI-enabled products.
+
+
+## Currently
+
+- Preparing for May 2027 SWE and new-grad recruiting
+- Deepening backend engineering, system design, DSA, and cloud skills
+- AWS Certified Developer – Associate — In Progress
+- Building production-oriented software and AI applications
 ---
+
+## Tech
+
+**Languages:** Python • Java • TypeScript • JavaScript • SQL
+
+**Frontend:** React • Next.js • Tailwind CSS
+
+**Backend:** FastAPI • Node.js • Express • REST APIs
+
+**Data:** PostgreSQL • SQLite • Supabase • ChromaDB
+
+**Cloud & DevOps:** AWS • Docker • GitHub Actions • Render
+
+**AI:** RAG • Embeddings • LLM APIs • LangChain
 
 ## Skills
 
@@ -55,9 +74,13 @@ I’m a CS student focused on building reliable full-stack and AI-powered applic
 ## Featured Projects
 
 ### DevScout
-AI GitHub talent discovery platform that helps recruiters evaluate GitHub profiles with LLM-generated summaries, tech stack analysis, and role recommendations. Includes shortlist CRUD, tags, notes, CSV export, security headers, rate limiting, and caching.
+Multi-tenant developer-discovery SaaS with authentication, Stripe billing, semantic search, access controls, and GitHub GraphQL integration.
 
-**Tech:** TypeScript, React, Vite, Tailwind, Node.js/Express, SQLite, Claude AI
+### Job Engine
+Python job-data platform processing and deduplicating 35,000+ job listings with 50 automated tests, CI/CD, and DOL H-1B data integration.
+
+### FitForge AI
+Full-stack AI coaching application using Next.js, FastAPI, RAG, Supabase, ChromaDB, Docker, and automated deployment.
 
 ### FIFA World Cup Predictor
 ML-powered web app that predicts match outcomes using engineered features like form, xG, and home/away strength. Optimized PostgreSQL schemas and indexes to reduce inference latency by 40%.
