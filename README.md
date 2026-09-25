@@ -24,7 +24,7 @@ Backend & Full-Stack Software Engineer focused on building production-oriented a
 
 - Preparing for May 2027 SWE and new-grad recruiting
 - Deepening backend engineering, system design, DSA, and cloud skills
-- AWS Certified Developer – Associate — In Progress
+- AWS Certified Developer – Associate — Certified
 - Building production-oriented software and AI applications
 ---
 
